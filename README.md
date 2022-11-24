@@ -13,9 +13,9 @@ enunciado del mismo. Debéis aplicar las metodologías y protocolos UX aprendido
 Para dejar constancia del desarrollo del proyecto, planificaréis las tareas y las subtareas en la
 herramienta Wrike.
 
-1. Definición y diferencias de aplicaciones híbridas y aplicaciones nativas.
-2. Definición de componente, propiedades y atributos de componente y eventos.
+1. Definición y diferencias de aplicaciones híbridas y aplicaciones nativas. (Diego)
+2. Definición de componente, propiedades y atributos de componente y eventos. (Diego)
 3. Librerías de componentes disponibles para diferentes sistemas operativos y lenguajes de
-programación (Incluye una tabla con sus características).
-4. Herramientas propietarias y libres de edición de interfaces.
-5. Diferencia entre interfaces dinámicas e interfaces estáticas
+programación (Incluye una tabla con sus características). (Angel)
+4. Herramientas propietarias y libres de edición de interfaces. (sebas)
+5. Diferencia entre interfaces dinámicas e interfaces estáticas (victor)
