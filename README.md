@@ -18,4 +18,4 @@ herramienta Wrike.
 3. Librerías de componentes disponibles para diferentes sistemas operativos y lenguajes de
 programación (Incluye una tabla con sus características).
 4. Herramientas propietarias y libres de edición de interfaces.
-5. Diferencia entre interfaces dinámicas e interfaces estáticas
+5. Diferencia entre interfaces dinámicas e interfaces estáticas (victor)
