@@ -1,5 +1,4 @@
 # APP IONIC 6 + ANGULAR 13
-# APP IONIC 6 + ANGULAR 13
 Nuestro cliente es una academia de informática que nos solicita una app a través de la cual los docentes
 puedan compartir contenidos y ejemplos con los alumnos del curso desarrollo de aplicaciones que
 incluya los contenidos introductorios comunes a sus 3 cursos principales.
