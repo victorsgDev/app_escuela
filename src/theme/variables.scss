@@ -1,8 +1,19 @@
 // Ionic Variables and Theming. For more info, please see:
 // http://ionicframework.com/docs/theming/
-
+@font-face {
+  font-family: 'CommissionerM';    //This is what we are going to call
+  src: url('../assets/fonts/Commissioner-Medium.ttf');
+}
+@font-face {
+  font-family: 'CommissionerL';  //This is what we are going to call
+  src: url('../assets/fonts/Commissioner-Light.ttf');
+}
 /** Ionic CSS Variables **/
+* {
+  --ion-font-family: CommissionerM;
+}
 :root {
+  --ion-font-family: CommissionerM;
   /** primary **/
   --ion-color-primary: #3880ff;
   --ion-color-primary-rgb: 56, 128, 255;
