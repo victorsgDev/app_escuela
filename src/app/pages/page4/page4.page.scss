@@ -16,4 +16,25 @@ ion-title{
 
 ion-card-title {
   color: white;
+  text-align: center;
 }
+
+
+.img {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+
+
+ion-row{
+  text-align: center;
+  display: flex;align-items: center;justify-content: center;
+}
+
+
+ion-title{
+  text-align: center;
+}
+

@@ -1,3 +1,24 @@
 ion-content {
   --background: #2B3245;
 }
+
+ion-item {
+  --background: #394158;
+}
+
+div{
+  display: flex;align-items: center;justify-content: center;
+}
+
+ion-row{
+  text-align: center;
+  display: flex;align-items: center;justify-content: center;}
+
+ion-col{
+  text-align: center;
+  display: flex;align-items: center;justify-content: center;}
+
+
+ion-title{
+  text-align: center;
+}

@@ -11,3 +11,24 @@ ion-grid, ion-row, ion-item {
   background-color: #2B3245;
 }
 
+ion-item{
+  --background: #2B3245;
+}
+
+
+ion-row{
+  text-align: center;
+  display: flex;align-items: center;justify-content: center;
+}
+
+ion-col{
+  text-align: center;
+  display: flex;align-items: center;justify-content: center;
+}
+
+
+ion-title{
+  text-align: center;
+}
+
+

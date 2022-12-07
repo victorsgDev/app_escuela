@@ -1,7 +1,25 @@
 ion-content {
   --background: #2B3245;
 }
+
+ion-toolbar{
+  --background: #2B3245;
+}
+
+ion-card {
+  --background: #394158;
+}
+
 h1{
   color: white;
+  text-align: center;
+}
+
+ion-row{
+  text-align: center;
+  display: flex;align-items: center;justify-content: center;}
+
+
+ion-title{
   text-align: center;
 }

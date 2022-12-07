@@ -24,4 +24,12 @@ ion-item{
 }
 ion-card{
   --background: #394158 !important;
+  width: fit-content;
+  alignment: center;
+}
+
+@media (min-width: 1200px) {
+  ion-card {
+    width: 600px;
+  }
 }
