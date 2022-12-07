@@ -1,0 +1,7 @@
+{
+  "name": "hg_desarrolloInterfaces_1tr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

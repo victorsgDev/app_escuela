@@ -1,0 +1,50 @@
+ion-card {
+  text-align: center;
+  --background: #394158;
+}
+
+ion-toolbar {
+  --background: #394158;
+}
+
+ion-item {
+  --background: #2B3245 !important;
+  --color: #fff !important;
+  --border-color: #2B3245 !important;
+  --border-style: solid !important;
+  --border-width: 0px !important;
+  --box-shadow: none !important;
+  --padding: 0px !important;
+  --margin: 0px !important;
+  --height: 0px !important;
+}
+
+h2 {
+  color: #fff;
+}
+
+ion-avatar {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+ion-button{
+  display: flex;
+  justify-content: center;
+}
+
+.button-flechita {
+  background-color: #2B3245;
+  width: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
